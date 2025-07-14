@@ -65,4 +65,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 This project is open-source and available under the MIT License.
 
+NOTE:This Project Works Only If Python Is Installed And Path Has Been Set To Python.
+
 ⭐️ If you like this project, give it a star on GitHub!
