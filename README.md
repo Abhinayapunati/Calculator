@@ -1,27 +1,48 @@
-# Calculator Web Application
+Calculator Web Application
 
-This is a simple calculator web application built using **Python (Flask)**, **HTML**, and **CSS**. It allows users to perform basic arithmetic operations through a clean and user-friendly interface.
+A simple web-based calculator built with Python (Flask), HTML, and CSS. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
----
+Try it live!
 
-## 🚀 Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
+You can use the calculator online here:
+https://calculator-flask-app-4ad3.onrender.com/
 
----
+Features
 
-## 🛠️ Technologies Used
-- Python
-- Flask
-- HTML
-- CSS
+Addition
 
----
+Subtraction
 
-## 📦 How to Run Locally
+Multiplication
 
-1. **Clone the Repository**
-```bash
+Division
+
+How to Run Locally
+
+Clone this repository:
 git clone https://github.com/Abhinayapunati/Calculator.git
+cd Calculator
+
+(Optional) Create a virtual environment and activate it:
+python -m venv venv
+On Windows: venv\Scripts\activate
+On macOS/Linux: source venv/bin/activate
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the app:
+python app.py
+
+Open your browser and go to:
+https://calculator-flask-app-4ad3.onrender.com/
+
+Technologies Used
+
+Python
+
+Flask
+
+HTML
+
+CSS
